@@ -1,2 +1,2 @@
-# recursive-prectices-with-python
+# recursive-practice-with-python
 Python ile Recursive fonksiyonlar
